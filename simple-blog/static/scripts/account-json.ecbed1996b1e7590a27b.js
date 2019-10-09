@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{AuOy:function(a){a.exports={code:0,data:{gender:"x",bio:"",_id:"5d8f4bcbc1254d1364543b2d",name:"admin",email:"19616414@qq.com",avatar:"/assets/images/avatars/upload_3326e7b252da1514b64283aa9d6e1460.png"}}}}]);

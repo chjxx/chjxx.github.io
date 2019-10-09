@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{NiyI:function(o,n,e){},fonF:function(o,n,e){"use strict";e.r(n);var a;e("NiyI");(a=window.localStorage.getItem("theme"))&&(a=JSON.parse(a),window.document.body.className=a.className)}},[["fonF",10]]]);
