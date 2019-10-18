@@ -1,0 +1,19 @@
+{
+  "name": "chjxx.github.io",
+  "version": "1.0.0",
+  "description": "- [2048 GAME](https://chjxx.github.io/2048)\r - [Simple Blog](https://chjxx.github.io/simple-blog)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chjxx/chjxx.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chjxx/chjxx.github.io/issues"
+  },
+  "homepage": "https://github.com/chjxx/chjxx.github.io#readme"
+}
